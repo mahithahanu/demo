@@ -1,0 +1,12 @@
+.options_class{
+    width: 0px;
+    background-color: aqua;
+    transition: all 1s;
+    
+}
+.option1{
+    width: 0px;
+    color:white;
+    font-size: 24px;
+    background-color: blue;
+}
